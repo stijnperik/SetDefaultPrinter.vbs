@@ -6,7 +6,7 @@ By stijnperik (2023)
 
 USAGE:
 - Set this as a user login script by group policy.
-- Add a domain string.
+- Add a domain string (NETBIOS DOMAINNAME).
 - Create a new AD group for each printer you want to be default.
 - Under section 'Sub routine for creating Printer connections', add your printer share name matching your default printer group.
 - Add users to the default printer groups.
